@@ -10,6 +10,6 @@
 <project name="Rondeau79/android_system_qcom" path="system/qcom" remote="github" revision="lineage-21"/>
 <project name="Rondeau79/android_hardware_motorola" path="hardware/motorola" remote="github" revision="lineage-21"/>
 <project name="Rondeau79/packages_apps_ViPER4AndroidFX" path="packages/apps/ViPER4AndroidFX" remote="github" revision="EvolutionX"/>
-<project name=:Rondeau79/vendor_motorola_dolby" path="vendor/dolby" remote="github" revision="14"/> 
+<project name="Rondeau79/vendor_motorola_dolby" path="vendor/dolby" remote="github" revision="14"/>
   
 </manifest>
