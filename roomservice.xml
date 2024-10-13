@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <manifest>
+  
 <project name="Rondeau79/android_device_motorola_nio" path="device/motorola/nio" remote="github" revision="EvolutionX"/>
 <project name="Rondeau79/android_device_motorola_sm8250-common" path="device/motorola/sm8250-common" remote="github" revision="EvolutionX"/>
 <project name="Rondeau79/android_kernel_motorola_sm8250" path="kernel/motorola/sm8250" remote="github" revision="lineage-21"/>
