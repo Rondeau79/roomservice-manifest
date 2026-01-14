@@ -9,12 +9,12 @@
   <project name="Rondeau79/proprietary_vendor_motorola_pstar" path="vendor/motorola/pstar" remote="github" revision="lineage-23.2" />
   <project name="Rondeau79/Evolution-X-Devices-hardware_motorola" path="hardware/motorola" remote="github" revision="bka-bak" />
   <project name="Rondeau79/packages_apps_ViPER4AndroidFX" path="packages/apps/ViPER4AndroidFX" remote="github" revision="V8.0" />
-  <project name="Rondeau79/android_device_google_cheetah" name="device_google_cheetah" remote="github" revision="lineage-23.2" />
-  <project nmae="Rondeau79/android_device_google_pantah" name="device_google_pantah" remote="github" revision="lineage-23.2" />
-  <project name="Rondeau79/android_device_google_gs201" name="device_google_gs201" remote="github" revison="lineage-23.2" />
-  <project name="Rondeau79/android_device_google_pantah-kernels" name="device_google_pantah-kernels" remote="github" revision="lineage-23.2" />
-  <project name="Rondeau79/proprietary_vendor_google_panther" name="vendor_google_panther" remote="evo-tensor" revision="lineage-23.2" />
-  <project name="Rondeau79/proprietary_vendor_google_cheetah" name="vendor_google_cheetah" remote="github" revision="lineage-23.2" />
-  <project name="Rondeau79/android_device_google_gs-common" name="device_google_gs-common" remote="github" revision="lineage-23.2" />
-  <project name="Rondeau79/packages_apps_PixelParts" name="packages_apps_PixelParts" remote="github" revision="bka" />
+  <project name="Rondeau79/android_device_google_cheetah" path="device_google_cheetah" remote="github" revision="lineage-23.2" />
+  <project nmae="Rondeau79/android_device_google_pantah" path="device_google_pantah" remote="github" revision="lineage-23.2" />
+  <project name="Rondeau79/android_device_google_gs201" path="device_google_gs201" remote="github" revison="lineage-23.2" />
+  <project name="Rondeau79/android_device_google_pantah-kernels" path="device_google_pantah-kernels" remote="github" revision="lineage-23.2" />
+  <project name="Rondeau79/proprietary_vendor_google_panther" path="vendor_google_panther" remote="evo-tensor" revision="lineage-23.2" />
+  <project name="Rondeau79/proprietary_vendor_google_cheetah" path="vendor_google_cheetah" remote="github" revision="lineage-23.2" />
+  <project name="Rondeau79/android_device_google_gs-common" path="device_google_gs-common" remote="github" revision="lineage-23.2" />
+  <project name="Rondeau79/packages_apps_PixelParts" path="packages_apps_PixelParts" remote="github" revision="bka" />
 </manifest>
