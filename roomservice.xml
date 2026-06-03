@@ -18,5 +18,4 @@
   <project name="Rondeau79/packages_apps_Updater" path="packages/apps/Updater" remote="github" revision="bq2" />
   <project name="Rondeau79/EVOX-OTA-Releases" path="evolution/OTA" remote="github" revision="bka" />
   <project name="Rondeau79/hardware_dolby" path="hardware/dolby" remote="github" revision="bka" />
-  
 </manifest>
