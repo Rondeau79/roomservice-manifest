@@ -12,7 +12,7 @@
   <project nmae="Rondeau79/android_device_google_pantah" path="device/google/pantah" remote="github" revision="lineage-23.0" />
   <project name="Rondeau79/android_device_google_gs201" path="device/google/gs201" remote="github" revison="lineage-23.2" />
   <project name="Rondeau79/android_device_google_pantah-kernels" path="device/google/pantah-kernels" remote="github" revision="lineage-23.2" />
-  <project name="Rondeau79/proprietary_vendor_google_panther" path="vendor/google/panther" remote="evo-tensor" revision="lineage-23.2" />
+  <project name="Rondeau79/proprietary_vendor_google_panther" path="vendor/google/panther" remote="github" revision="lineage-23.2" />
   <project name="Rondeau79/proprietary_vendor_google_cheetah" path="vendor/google/cheetah" remote="github" revision="lineage-23.2" />
   <project name="Rondeau79/android_device_google_gs-common" path="device/google/gs-common" remote="github" revision="lineage-23.2" />
   <project name="Rondeau79/packages_apps_Updater" path="packages/apps/Updater" remote="github" revision="bq2" />
