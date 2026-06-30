@@ -1,21 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-  <project name="Rondeau79/android_device_motorola_nio" path="device/motorola/nio" remote="github" revision="lineage-23.2" />
-  <project name="Rondeau79/android_device_motorola_pstar" path="device/motorola/pstar" remote="github" revision="lineage-23.2" />
-  <project name="Rondeau79/android_device_motorola_sm8250-common" path="device/motorola/sm8250-common" remote="github" revision="lineage-23.2" />
-  <project name="Rondeau79/android_kernel_motorola_sm8250" path="kernel/motorola/sm8250" remote="github" revision="lineage-23.2" />
-  <project name="Rondeau79/proprietary_vendor_motorola_sm8250-common" path="vendor/motorola/sm8250-common" remote="github" revision="lineage-23.2" />
-  <project name="Rondeau79/proprietary_vendor_motorola_nio" path="vendor/motorola/nio" remote="github" revision="lineage-23.2" />
-  <project name="Rondeau79/proprietary_vendor_motorola_pstar" path="vendor/motorola/pstar" remote="github" revision="lineage-23.2" />
-  <project name="Rondeau79/android_hardware_motorola" path="hardware/motorola" remote="github" revision="lineage-23.2" />
-  <project name="Rondeau79/packages_apps_ViPER4AndroidFX" path="packages/apps/ViPER4AndroidFX" remote="github" revision="V8.0" />
-  <project nmae="Rondeau79/android_device_google_pantah" path="device/google/pantah" remote="github" revision="lineage-23.0" />
-  <project name="Rondeau79/android_device_google_gs201" path="device/google/gs201" remote="github" revison="lineage-23.2" />
-  <project name="Rondeau79/android_device_google_pantah-kernels" path="device/google/pantah-kernels" remote="github" revision="lineage-23.2" />
-  <project name="Rondeau79/proprietary_vendor_google_panther" path="vendor/google/panther" remote="github" revision="lineage-23.2" />
-  <project name="Rondeau79/proprietary_vendor_google_cheetah" path="vendor/google/cheetah" remote="github" revision="lineage-23.2" />
-  <project name="Rondeau79/android_device_google_gs-common" path="device/google/gs-common" remote="github" revision="lineage-23.2" />
-  <project name="Rondeau79/packages_apps_Updater" path="packages/apps/Updater" remote="github" revision="bq2" />
+  <project name="Rondeau79/android_device_motorola_nio" path="device/motorola/nio" remote="github" revision="lineage-24.0" />
+  <project name="Rondeau79/android_device_motorola_pstar" path="device/motorola/pstar" remote="github" revision="lineage-24.0" />
+  <project name="Rondeau79/android_device_motorola_sm8250-common" path="device/motorola/sm8250-common" remote="github" revision="lineage-24.0" />
+  <project name="Rondeau79/android_kernel_motorola_sm8250" path="kernel/motorola/sm8250" remote="github" revision="lineage-24.0" />
+  <project name="Rondeau79/proprietary_vendor_motorola_sm8250-common" path="vendor/motorola/sm8250-common" remote="github" revision="lineage-24.0" />
+  <project name="Rondeau79/proprietary_vendor_motorola_nio" path="vendor/motorola/nio" remote="github" revision="lineage-24.0" />
+  <project name="Rondeau79/proprietary_vendor_motorola_pstar" path="vendor/motorola/pstar" remote="github" revision="lineage-24.0" />
+  <project name="Rondeau79/android_hardware_motorola" path="hardware/motorola" remote="github" revision="lineage-24.0" />
+  <project name="Rondeau79/packages_apps_ViPER4AndroidFX" path="packages/apps/ViPER4AndroidFX" remote="github" revision="cnb" />
+  <project name="Rondeau79/packages_apps_Updater" path="packages/apps/Updater" remote="github" revision="cnb" />
   <project name="Rondeau79/EVOX-OTA-Releases" path="evolution/OTA" remote="github" revision="bka" />
-  <project name="Rondeau79/hardware_dolby" path="hardware/dolby" remote="github" revision="bka" />
+  <project name="Rondeau79/hardware_dolby" path="hardware/dolby" remote="github" revision="cnb" />
 </manifest>
